@@ -503,5 +503,5 @@ seaborn>=0.12
 - `references/factor-library.md` — 因子定义与 PIT 实现模板
 - `references/backtesting-design.md` — 回测框架详细设计
 - `references/performance-metrics.md` — 绩效指标公式与 NW 调整方法
-- `references/lookahead-auditor.md` — Look-ahead 审计 Agent 指令，审查 7 类前视偏差
+- `references/lookahead-auditor.md` — 策略代码审计 Agent 指令，审查 7 类前视偏差 + 实盘交易约束
 - `references/dev-logger.md` — 开发日志 Agent 指令，记录每次改动（精确到分钟）
